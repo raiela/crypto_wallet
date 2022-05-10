@@ -64,3 +64,5 @@ Foi escolhido deixar o SQLite3 como o banco de dados padrão porque ele é leve.
 	- image_tag
 	- Dá para criar os próprios helpers
 
+
+## Links úteis
