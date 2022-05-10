@@ -68,7 +68,10 @@ Foi escolhido deixar o SQLite3 como o banco de dados padrão porque ele é leve.
 ## Links úteis
 
 Rails console: https://guides.rubyonrails.org/command_line.html#rails-console
+
 Rails rounting: https://guides.rubyonrails.org/routing.html#crud-verbs-and-actions
+
 Rails helpers: http://api.rubyonrails.org/classes/ActionCont
 roller/Helpers.html
-- Active record: https://pt.wikipedia.org/wiki/Active_record	
+
+Active record: https://pt.wikipedia.org/wiki/Active_record	
