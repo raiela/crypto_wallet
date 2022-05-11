@@ -62,7 +62,11 @@ Foi escolhido deixar o SQLite3 como o banco de dados padrão porque ele é leve.
 	- São métodos prontos que podem ser usados nas views
 	- link_to 
 	- image_tag
+	- render
 	- Dá para criar os próprios helpers
+
+- Partils
+	- Permite que se renderize uma view dentro de outra, ou seja, reutilizando.
 
 
 ## Links úteis
@@ -71,7 +75,6 @@ Rails console: https://guides.rubyonrails.org/command_line.html#rails-console
 
 Rails rounting: https://guides.rubyonrails.org/routing.html#crud-verbs-and-actions
 
-Rails helpers: http://api.rubyonrails.org/classes/ActionCont
-roller/Helpers.html
+Rails helpers: http://api.rubyonrails.org/classes/ActionController/Helpers.html
 
 Active record: https://pt.wikipedia.org/wiki/Active_record	
