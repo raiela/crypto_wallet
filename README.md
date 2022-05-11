@@ -46,6 +46,11 @@ Foi escolhido deixar o SQLite3 como o banco de dados padrão porque ele é leve.
 
 	> rails db:create, db:drop, db:migrate, db:rollback
 
+	> 
+		rails db:seed
+		* Dados cadastrados previamente no banco de dados
+	>
+	
 - Ambientes do rails
 	- Por padrão o rails vem com 3 ambientes: Desenvolvimento, Teste, Produção.
 	- RAILS_ENV=production rails s #para rodar em producao
@@ -78,3 +83,5 @@ Rails rounting: https://guides.rubyonrails.org/routing.html#crud-verbs-and-actio
 Rails helpers: http://api.rubyonrails.org/classes/ActionController/Helpers.html
 
 Active record: https://pt.wikipedia.org/wiki/Active_record	
+
+Action Controller: https://api.rubyonrails.org/classes/ActionController/Parameters.html
