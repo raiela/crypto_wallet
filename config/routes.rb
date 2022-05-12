@@ -1,4 +1,5 @@
 Rails.application.routes.draw do
+  resources :mini_types
   resources :coins
   #get 'welcome/index'
 
